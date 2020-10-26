@@ -2,7 +2,7 @@
 
 Componente React que retorna número por extenso
 
-[![npm](https://img.shields.io/npm/v/react_imput_por_extenso)] (https://www.npmjs.com/package/react_imput_por_extenso) ![NPM](https://img.shields.io/npm/l/react_imput_por_extenso)
+[![npm](https://img.shields.io/npm/v/react_imput_por_extenso)](https://www.npmjs.com/package/react_imput_por_extenso) ![NPM](https://img.shields.io/npm/l/react_imput_por_extenso)
 
 ## Como instalar
 

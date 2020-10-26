@@ -2,6 +2,8 @@
 
 Componente React que retorna número por extenso
 
+[![npm](https://img.shields.io/npm/v/react_imput_por_extenso)] (https://www.npmjs.com/package/react_imput_por_extenso) ![NPM](https://img.shields.io/npm/l/react_imput_por_extenso)
+
 ## Como instalar
 
 Abaixo as formas de como instalar essa biblioteca utilizando o npm ou yarn:
@@ -10,8 +12,9 @@ Abaixo as formas de como instalar essa biblioteca utilizando o npm ou yarn:
 
 npm install react_imput_por_extenso
 # ou
-```
+yarn add react_imput_por_extenso
 
+```
 ## Como usar
 
 uma forma básica de como utilizar o componente:

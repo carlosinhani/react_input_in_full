@@ -1,10 +1,10 @@
 {
   "name": "react_imput_por_extenso",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "Componentes React que retorna número por extenso",
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "repository": "https://github.com/carlosinhani/react_imput_in_full.git",
+  "repository": "https://github.com/carlosinhani/react_input_in_full.git",
   "author": "Carlos Rodrigo",
   "license": "MIT",
   "private": false,

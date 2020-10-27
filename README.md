@@ -50,4 +50,4 @@ todas as propriedades de um input estão disponíveis.
 
 | Propriedade | Valor inicial |  Tipo  |           Descrição           |
 | ------------|---------------|--------|-------------------------------|
-| tipoExtenso |    normal     | string | formato de ectensão do número | 
+| tipoExtenso |    normal     | string | formato de extensão do número | 
